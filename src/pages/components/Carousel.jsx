@@ -2,11 +2,11 @@ import { useEffect, useState, useRef } from "react";
 import useWindowSize from "../../hooks/useWindowSize";
 
 const images = [
-  "/src/assets/1.jpg",
-  "/src/assets/2.jpg",
-  "/src/assets/3.jpg",
-  "/src/assets/4.jpg",
-  "/src/assets/5.jpg",
+  "/images/1.jpg",
+  "/images/2.jpg",
+  "/images/3.jpg",
+  "/images/4.jpg",
+  "/images/5.jpg",
 ];
 
 export default function Carousel({ headerHeight }) {
