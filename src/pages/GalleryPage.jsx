@@ -1,6 +1,9 @@
 import React, { useEffect, useRef, useState } from "react";
+
 import Header from "./components/Header";
+
 import Carousel from "./components/Carousel";
+
 import ImageGallery from "./components/ImageGallery";
 
 export default function GalleryPage() {
